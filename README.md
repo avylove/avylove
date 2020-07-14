@@ -1,3 +1,5 @@
+[![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/avram-lubkin/)
+[![RHCA Certified](https://img.shields.io/badge/RHCA-Certified-red?logo=red%20hat)](https://rhtapps.redhat.com/verify/?certId=110-004-074)
 
 ![Avylove's github stats](https://github-readme-stats.vercel.app/api?username=avylove)
 
