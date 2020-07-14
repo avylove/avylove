@@ -3,7 +3,7 @@
 [![Fedora Contributor](https://img.shields.io/badge/Fedora-Contributor-3c6eb4?logo=fedora)](https://src.fedoraproject.org/user/aviso/projects)
 
 
-![Avylove's github stats](https://github-readme-stats.vercel.app/api?username=avylove)
+![Avylove's github stats](https://github-readme-stats.vercel.app/api?username=avylove&show_icons=true&hide_border=true)
 
 
 <!--
