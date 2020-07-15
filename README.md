@@ -1,5 +1,5 @@
 [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-2867B2?logo=linkedin)](https://www.linkedin.com/in/avram-lubkin/)
-[![RHCA Certified](https://img.shields.io/badge/RHCA-Certified-BE0000?logo=red%20hat)](https://rhtapps.redhat.com/verify/?certId=110-004-074)
+[![RHCA Certified](https://img.shields.io/badge/Red%20Hat%20Certified-Architect-BE0000?logo=red%20hat&logoColor=BE0000)](https://rhtapps.redhat.com/verify/?certId=110-004-074)
 [![Fedora Contributor](https://img.shields.io/badge/Fedora-Contributor-3c6eb4?logo=fedora)](https://src.fedoraproject.org/user/aviso/projects)
 
 
