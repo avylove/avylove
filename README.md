@@ -10,9 +10,11 @@
 [![Enlighten](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Enlighten)](https://github.com/Rockhopper-Technologies/enlighten)[![Pluginlib](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Pluginlib)](https://github.com/Rockhopper-Technologies/pluginlib)
 [![Prefixed](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Prefixed)](https://github.com/Rockhopper-Technologies/prefixed)[![Jinxed](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Jinxed)](https://github.com/Rockhopper-Technologies/jinxed)
 
-### Where I also contribute
+### Where I also contribute regularly
 ---
 [![Blessed](https://github-readme-stats.vercel.app/api/pin/?username=jquast&repo=Blessed)](https://github.com/jquast/blessed)
+
+<a href="https://src.fedoraproject.org/user/aviso"><img src="https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png" alt="Fedora" width="250"/></a>
 
 
 <!--
