@@ -3,7 +3,16 @@
 [![Fedora Contributor](https://img.shields.io/badge/Fedora-Contributor-3c6eb4?logo=fedora)](https://src.fedoraproject.org/user/aviso/projects)
 
 
-![Avylove's github stats](https://github-readme-stats.vercel.app/api?username=avylove&show_icons=true&hide_border=true)
+![Avylove's github stats](https://github-readme-stats.vercel.app/api?username=avylove&show_icons=true&hide_border=true&include_all_commits=true&hide=stars)
+
+### My Creations
+---
+[![Enlighten](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Enlighten)](https://github.com/Rockhopper-Technologies/enlighten)[![Pluginlib](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Pluginlib)](https://github.com/Rockhopper-Technologies/pluginlib)
+[![Prefixed](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Prefixed)](https://github.com/Rockhopper-Technologies/prefixed)[![Jinxed](https://github-readme-stats.vercel.app/api/pin/?username=Rockhopper-Technologies&repo=Jinxed)](https://github.com/Rockhopper-Technologies/jinxed)
+
+### Where I also contribute
+---
+[![Blessed](https://github-readme-stats.vercel.app/api/pin/?username=jquast&repo=Blessed)](https://github.com/jquast/blessed)
 
 
 <!--
