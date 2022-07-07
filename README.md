@@ -1,7 +1,7 @@
 [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-2867B2?logo=linkedin)](https://www.linkedin.com/in/avram-lubkin/)
 [![RHCA Certified](https://img.shields.io/badge/Red%20Hat%20Certified-Architect-BE0000?logo=red%20hat&logoColor=BE0000)](https://rhtapps.redhat.com/verify/?certId=110-004-074)
 [![Fedora Contributor](https://img.shields.io/badge/Fedora-Contributor-3c6eb4?logo=fedora)](https://src.fedoraproject.org/user/aviso/projects)
-[![Microsoft Employee](https://img.shields.io/badge/Microsoft-Employee-00A4EF?logo=microsoft&labelColor=7FBA00&logoColor=737373)](https://www.microsoft.com/)
+[![Microsoft Employee](https://img.shields.io/badge/Microsoft-Employee-00A4EF?logo=microsoft&labelColor=7FBA00&logoColor=737373)](https://opensource.microsoft.com/)
 
 ![Avylove's github stats](https://github-readme-stats.vercel.app/api?username=avylove&show_icons=true&hide_border=true&include_all_commits=true&hide=stars)
 
